@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EIBLV3fA4maCQ6hGkLTZLIKB0AppqLnzPgE5BxxEzyk=",
+  "Source": "GrpcAuthCardService",
+  "BasePath": "_content/GrpcAuthCardService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

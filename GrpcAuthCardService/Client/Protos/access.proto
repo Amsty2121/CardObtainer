@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace = "MSCardAccessRequestService";
+
+service Access 
+{
+	rpc RequestAccessByToken(TokenRequest) returns (stream ByteDataReply);
+	rpc RequestAccessByCredentials(CredentialsRequest) returns (stream ByteDataReply);
+
+	rpc RequestAccessByCredentialsObject(CredentialsRequest) returns (ByteDataReplyObject);
+}
+
+message TokenRequest
+{
+	string token = 1;
+}
+
+message CredentialsRequest
+{
+	string login = 1;
+	string password = 2;
+}
+
+message ByteDataReply
+{
+	bytes data = 1;
+}
+
+message ByteDataReplyObject
+{
+	repeated bytes items = 8;
+}
