@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UzmyGSC+kuN6AyK1aJYcsgWnjqnBopA3k/QC873mPTkVOCKWgNJHTnW3lGzLVqra2pZlTD2GPQb5O4ngGJCrOw==",
+  "dgSpecHash": "7n3tFgTaWgRScvXlAnC70v9ivbF+NPOgQ0CElFU9MW+pbIG1l0TdG1jTy1WbjLS3rJ5FtvGR6XBNno1z7uyzfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DGusac\\OneDrive - ENDAVA\\Desktop\\sadasds\\GrpcAuthCardService\\GrpcAuthCardService\\GrpcAuthCardService.csproj",
+  "projectFilePath": "C:\\Users\\DGusac\\OneDrive - ENDAVA\\Desktop\\GitCardObtainer\\CardObtainer\\GrpcAuthCardService\\GrpcAuthCardService\\GrpcAuthCardService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DGusac\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\DGusac\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
